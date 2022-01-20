@@ -50,7 +50,7 @@ jupyter lab
 ## Contributors
 
 Brought to you by:
-  odhissm@gmail.com,  
+  odhissm@gmail.com, 
   tylergusmyers@gmail.com, 
   aheesh@gmail.com, 
   
