@@ -40,6 +40,11 @@ Please cick on the url link below to run the application from Google colab
 
 [GC_SOL_Pricing_Model](https://colab.research.google.com/github/tylergusmyers/ML_token_prices/blob/main/SOL_Pricing_Model.ipynb)
 
+[ETH LR_Pricing_Model](https://colab.research.google.com/drive/1nTJ-AWbKg1uWteWnP9S3coDfUAg5fVh2?usp=sharing) 
+
+[ETH LTSM_Pricing_Model](https://colab.research.google.com/drive/1tdBSfIZxPdXqIr_aHgjkFGddWquN7o7p?usp=sharing)
+
+[ETH SVM_Pricing_Model](https://colab.research.google.com/drive/1YorlqEyumXc2Dusp9MD-WOMAmpZJdJas?usp=sharing) 
 
 
 with the:
