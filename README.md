@@ -1,9 +1,10 @@
 # ML_token_prices
-A Machine Learning project to predict future crypto token prices and trends.
+This project applys machine learning models to predict crypto token prices and trends using different machine learning models to asses their perfomance.
 
 # ML_token Application: new application 
 
 This is a fintech tool that helps in predicting possible crypto prices using historical data.
+This tool can be used by potential investers or crypto enthusiats in predicting market trends for Bitcoin (BTC), Etherium (ETH)and Solana (SOL)
  
 
 The current project is the inital design and development of the application to get MVP that can be tested on the current market cycle.
@@ -14,6 +15,9 @@ The current project is the inital design and development of the application to g
 
 
 *[Jupyter](https://jupyter.org/documentation) - For documentation
+*[Logistic Regression](https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression) - Documentation
+*[SVM](https://scikit-learn.org/stable/modules/svm.html)
+*[LSTM](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM) - Documentation
 
 
 ---
