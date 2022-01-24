@@ -38,7 +38,7 @@ Before running the application first install the following dependencies.
 ---
 
 ## Usage
-Please cick on the url link below to run the application from Google colab
+Please click on the url link below to run the application from Google colab
 
 [GC_BTC_Pricing_Model](https://colab.research.google.com/github/tylergusmyers/ML_token_prices/blob/main/BTC_Pricing_Model.ipynb) 
 
