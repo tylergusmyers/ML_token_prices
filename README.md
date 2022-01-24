@@ -10,7 +10,7 @@ This tool can be used by potential investors or crypto enthusiats in predicting 
 The current project is the inital design and development of the application to get MVP that can be tested on the current market cycle.
 
 A copy of our slide deck can be found at this link here:
-[Slide Deck](https://colab.research.google.com/github/tylergusmyers/ML_token_prices/blob/main/BTC_Pricing_Model.ipynb)  
+[Slide Deck](https://docs.google.com/presentation/d/1FUafEsIRPiEYRE8mxjcT_NAqG87dcmcMb1k1kV0D-Ac/edit#slide=id.g10f40a29a7a_0_605)  
 
 ---
 
